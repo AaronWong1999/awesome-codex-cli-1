@@ -36,18 +36,18 @@
   <path d="M106 71 H626" stroke="#30363d" stroke-dasharray="5 7" opacity="0.5"/>
   <g clip-path="url(#viewportClip)">
     <g class="static-card" transform="translate(114, 0)">
-    <a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    <a href="https://github.com/musistudio/claude-code-router" target="_blank">
       <g transform="translate(0, 12)" class="project">
-        <title>openai/codex-plugin-cc — 34328 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-plugin-cc</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 34.3k</text>
+        <title>musistudio/claude-code-router — 37719 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-code-router</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">musistudio · ★ 37.7k</text>
       </g>
     </a>
-    <a href="https://github.com/obra/superpowers" target="_blank">
+    <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
       <g transform="translate(0, 78)" class="project">
-        <title>obra/superpowers — 301045 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">superpowers</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">obra · ★ 301.0k</text>
+        <title>HKUDS/Vibe-Trading — 35719 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Vibe-Trading</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">HKUDS · ★ 35.7k</text>
       </g>
     </a>
     </g>
@@ -60,102 +60,102 @@
         dur="50s"
         repeatCount="indefinite"
       />
-    <a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-      <g transform="translate(0, 12)" class="project">
-        <title>openai/codex-plugin-cc — 34328 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-plugin-cc</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 34.3k</text>
-      </g>
-    </a>
-    <a href="https://github.com/obra/superpowers" target="_blank">
-      <g transform="translate(28, 78)" class="project">
-        <title>obra/superpowers — 301045 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">superpowers</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">obra · ★ 301.0k</text>
-      </g>
-    </a>
-    <a href="https://github.com/nexu-io/open-design" target="_blank">
-      <g transform="translate(304, 12)" class="project">
-        <title>nexu-io/open-design — 101861 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">open-design</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">nexu-io · ★ 101.9k</text>
-      </g>
-    </a>
-    <a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-      <g transform="translate(332, 78)" class="project">
-        <title>ComposioHQ/awesome-claude-skills — 77288 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-claude-skil…</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">ComposioHQ · ★ 77.3k</text>
-      </g>
-    </a>
     <a href="https://github.com/musistudio/claude-code-router" target="_blank">
-      <g transform="translate(608, 12)" class="project">
-        <title>musistudio/claude-code-router — 37712 stars</title>
+      <g transform="translate(0, 12)" class="project">
+        <title>musistudio/claude-code-router — 37719 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-code-router</text>
         <text x="0" y="47" fill="#8b949e" font-size="14">musistudio · ★ 37.7k</text>
       </g>
     </a>
-    <a href="https://github.com/bytedance/deer-flow" target="_blank">
+    <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
+      <g transform="translate(28, 78)" class="project">
+        <title>HKUDS/Vibe-Trading — 35719 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Vibe-Trading</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">HKUDS · ★ 35.7k</text>
+      </g>
+    </a>
+    <a href="https://github.com/vectorize-io/hindsight" target="_blank">
+      <g transform="translate(304, 12)" class="project">
+        <title>vectorize-io/hindsight — 50822 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">hindsight</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">vectorize-io · ★ 50.8k</text>
+      </g>
+    </a>
+    <a href="https://github.com/garrytan/gstack" target="_blank">
+      <g transform="translate(332, 78)" class="project">
+        <title>garrytan/gstack — 136771 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">gstack</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">garrytan · ★ 136.8k</text>
+      </g>
+    </a>
+    <a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+      <g transform="translate(608, 12)" class="project">
+        <title>jaywcjlove/awesome-mac — 116371 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-mac</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">jaywcjlove · ★ 116.4k</text>
+      </g>
+    </a>
+    <a href="https://github.com/pbakaus/impeccable" target="_blank">
       <g transform="translate(636, 78)" class="project">
-        <title>bytedance/deer-flow — 84013 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">deer-flow</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">bytedance · ★ 84.0k</text>
+        <title>pbakaus/impeccable — 82326 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">impeccable</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">pbakaus · ★ 82.3k</text>
       </g>
     </a>
-    <a href="https://github.com/career-ops-hq/career-ops" target="_blank">
+    <a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
       <g transform="translate(912, 12)" class="project">
-        <title>career-ops-hq/career-ops — 75326 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">career-ops</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">career-ops-hq · ★ 75.3k</text>
+        <title>Yeachan-Heo/oh-my-claudecode — 40002 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">oh-my-claudecode</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Yeachan-Heo · ★ 40.0k</text>
       </g>
     </a>
-    <a href="https://github.com/unslothai/unsloth" target="_blank">
+    <a href="https://github.com/KeygraphHQ/shannon" target="_blank">
       <g transform="translate(940, 78)" class="project">
-        <title>unslothai/unsloth — 78172 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">unsloth</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">unslothai · ★ 78.2k</text>
-      </g>
-    </a>
-    <a href="https://github.com/Twigpine/openclaude" target="_blank">
-      <g transform="translate(1216, 12)" class="project">
-        <title>Twigpine/openclaude — 33960 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">openclaude</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Twigpine · ★ 34.0k</text>
+        <title>KeygraphHQ/shannon — 49057 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">shannon</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">KeygraphHQ · ★ 49.1k</text>
       </g>
     </a>
     <a href="https://github.com/github/github-mcp-server" target="_blank">
-      <g transform="translate(1244, 78)" class="project">
-        <title>github/github-mcp-server — 33689 stars</title>
+      <g transform="translate(1216, 12)" class="project">
+        <title>github/github-mcp-server — 33695 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">github-mcp-server</text>
         <text x="0" y="47" fill="#8b949e" font-size="14">github · ★ 33.7k</text>
       </g>
     </a>
-    <a href="https://github.com/openai/codex-plugin-cc" target="_blank">
+    <a href="https://github.com/career-ops-hq/career-ops" target="_blank">
+      <g transform="translate(1244, 78)" class="project">
+        <title>career-ops-hq/career-ops — 75349 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">career-ops</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">career-ops-hq · ★ 75.3k</text>
+      </g>
+    </a>
+    <a href="https://github.com/musistudio/claude-code-router" target="_blank">
       <g transform="translate(1520, 12)" class="project">
-        <title>openai/codex-plugin-cc — 34328 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-plugin-cc</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 34.3k</text>
+        <title>musistudio/claude-code-router — 37719 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-code-router</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">musistudio · ★ 37.7k</text>
       </g>
     </a>
-    <a href="https://github.com/obra/superpowers" target="_blank">
+    <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
       <g transform="translate(1548, 78)" class="project">
-        <title>obra/superpowers — 301045 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">superpowers</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">obra · ★ 301.0k</text>
+        <title>HKUDS/Vibe-Trading — 35719 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Vibe-Trading</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">HKUDS · ★ 35.7k</text>
       </g>
     </a>
-    <a href="https://github.com/nexu-io/open-design" target="_blank">
+    <a href="https://github.com/vectorize-io/hindsight" target="_blank">
       <g transform="translate(1824, 12)" class="project">
-        <title>nexu-io/open-design — 101861 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">open-design</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">nexu-io · ★ 101.9k</text>
+        <title>vectorize-io/hindsight — 50822 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">hindsight</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">vectorize-io · ★ 50.8k</text>
       </g>
     </a>
-    <a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    <a href="https://github.com/garrytan/gstack" target="_blank">
       <g transform="translate(1852, 78)" class="project">
-        <title>ComposioHQ/awesome-claude-skills — 77288 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-claude-skil…</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">ComposioHQ · ★ 77.3k</text>
+        <title>garrytan/gstack — 136771 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">gstack</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">garrytan · ★ 136.8k</text>
       </g>
     </a>
     </g>
