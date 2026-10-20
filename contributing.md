@@ -4,10 +4,14 @@ External contributions are welcome through **issues only**. Pull request creatio
 
 1. Read the inclusion criteria below and check the README and existing issues for duplicates.
 2. Open an issue using **Submit a resource** or **Report a correction**.
-3. For new resources, provide a project link, suggested section, factual description, Codex integration evidence, and verifiable external usage evidence.
+3. For new resources, fill in the form: display name, category, link, author name and link, a 10-500 character description, and the checklist.
 4. Maintainers review the issue and update the list if accepted. Submission does not guarantee inclusion.
 
-Resource issues receive automated field, evidence-link, and duplicate-URL checks. The bot reports GitHub stars and archive status in a summary table, and updates its result when you edit the issue. A project under 100 stars gets `manual-review`; the bot never closes an issue. `validation-passed` means basic checks passed, not approval or verification of the evidence. Missing information gets `needs-evidence` or `needs-changes`; archived repositories and failed metadata queries get `manual-review`. The bot does not decide inclusion; maintainers apply the inclusion criteria below.
+Resource issues receive automated checks that post a **Validation Results** comment and update it when you edit the issue. The bot validates the form (https links, description length, checklist), warns about duplicate or test-looking names, and reports stars, license, activity dates, and archive status from GitHub, with the entry line that would be added. `validation-passed` means the form is valid, not that the resource is approved. Missing or invalid information gets `needs-evidence` or `needs-changes`; archived repositories, failed metadata queries, and projects under 100 stars also get `manual-review`.
+
+**The bot closes a submission automatically** (label `auto-closed`) when the project has fewer than 100 stars **and** less than 14 days of development since its first commit on the default branch, or when you already have another open resource submission. Submit again when the project qualifies. Apart from these two conditions, the bot never decides inclusion.
+
+Maintainers reply on a submission with `/approve` (requires `validation-passed`; opens a PR that adds the entry line to the chosen README section and closes the issue when merged), `/reject <reason>` (closes the issue), or `/request-changes <note>`.
 
 ## Contribute Codex Commands, Workflows, and Templates
 
@@ -44,7 +48,7 @@ A maintainer checks these points:
 - **Active.** Recent commits, and issues get answers.
 - **Accurate.** The one-line description matches what the project does.
 
-A resource with fewer than 100 stars is listed only if it passes the requirements and clearly meets at least two quality points. The submission must give the reason in the issue.
+A resource with fewer than 100 stars, but at least 14 days of development, is listed only if it passes the requirements and clearly meets at least two quality points. The submission must give the reason in the issue.
 
 Submissions that miss these criteria are not merged. Being submitted does not guarantee inclusion, and a maintainer may decline one without a full review.
 

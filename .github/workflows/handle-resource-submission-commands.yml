@@ -1,0 +1,51 @@
+name: Handle resource submission commands
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: submission-command-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  process:
+    # Maintainer comment (not on a PR) containing a command.
+    if: |
+      !github.event.issue.pull_request
+      && contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association)
+      && (startsWith(github.event.comment.body, '/approve')
+        || startsWith(github.event.comment.body, '/reject')
+        || startsWith(github.event.comment.body, '/request-changes'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Run command
+        id: command
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const commands = require('./scripts/approve-submission.cjs');
+            await commands.run({ github, context, core });
+      - name: Open pull request
+        if: steps.command.outputs.approved == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: ${{ steps.command.outputs.branch }}
+          TITLE: ${{ steps.command.outputs.title }}
+          ISSUE: ${{ steps.command.outputs.issue }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout -B "$BRANCH"
+          git add README.md
+          git commit -m "$TITLE"
+          git push --force origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" --title "$TITLE" --body "Closes #$ISSUE"

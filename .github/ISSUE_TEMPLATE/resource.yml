@@ -6,49 +6,80 @@ body:
   - type: markdown
     attributes:
       value: |
-        Submit one resource per issue. Eligible resources are free and open, work with Codex CLI, and have 100+ GitHub stars.
-        Resources below that are reviewed on distinctiveness and quality. See contributing.md for details.
-        The automated check only confirms the form is complete; maintainers make the inclusion decision.
+        Submit one resource per issue. An automated check validates the form and posts the result as a comment; a maintainer then reviews at their discretion.
+
+        Eligible resources are free and open, work with Codex CLI, and have 100+ GitHub stars. Resources below that are reviewed on distinctiveness and quality; explain why in the description. See contributing.md for details.
   - type: input
-    id: project
+    id: display_name
     attributes:
-      label: Project name and URL
-      description: Canonical repository or project website.
+      label: Display Name
+      description: The name of the resource as it will appear in the list.
+      placeholder: "e.g., codex-monitor"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: The README section the resource belongs in.
+      options:
+        - "GUI & Apps"
+        - "Mobile & Remote Access"
+        - "Session Managers"
+        - "Agent Runtimes & Orchestration"
+        - "Sandboxes"
+        - "Account Switchers & Proxies"
+        - "Usage & Monitoring"
+        - "Setup & Config Management"
+        - "Forks & Patched Builds"
+        - "Code Quality & Review"
+        - "Claude Code Interop"
+        - "Terminal"
+        - "Plugins"
+        - "Prompts & Templates"
+        - "Testing & Evaluation"
+        - "Agent Skills > General"
+        - "Agent Skills > Domain-Specific"
+        - "MCP Servers > Management"
+        - "MCP Servers > Memory & Context"
+        - "MCP Servers > Utilities"
+        - "Directories & Registries"
+        - "Workflows & Knowledge Guides"
+        - "Documentation"
+        - "Blog Posts & Tutorials"
+        - "IDE Integrations"
+        - "Community Projects"
     validations:
       required: true
   - type: input
-    id: category
+    id: link
     attributes:
-      label: Suggested README section
-      placeholder: "e.g., Session Managers"
+      label: Link
+      description: The main URL (must start with https://). Prefer the GitHub repo.
+      placeholder: "https://github.com/username/repository"
+    validations:
+      required: true
+  - type: input
+    id: author_name
+    attributes:
+      label: Author Name
+      description: The author's name, alias, or GitHub username.
+      placeholder: "Jane Doe or janedoe"
+    validations:
+      required: true
+  - type: input
+    id: author_link
+    attributes:
+      label: Author Link
+      description: Link to the author's GitHub profile or website (https://).
+      placeholder: "https://github.com/janedoe"
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
-      label: Factual description
-      description: One neutral line on what it does. No marketing.
-    validations:
-      required: true
-  - type: textarea
-    id: integration
-    attributes:
-      label: Codex integration evidence
-      description: Link to code or docs that show Codex support.
-    validations:
-      required: true
-  - type: textarea
-    id: adoption
-    attributes:
-      label: External usage evidence
-      description: Link to the GitHub repo (stars and first-commit date are checked from it), or a third-party listing or download count.
-    validations:
-      required: true
-  - type: input
-    id: relationship
-    attributes:
-      label: Your relationship to the project
-      description: Author, contributor, or user.
+      label: Description
+      description: "1-3 neutral sentences on what it does and how it works with Codex. No marketing, don't address the reader. (10-500 characters.)"
     validations:
       required: true
   - type: checkboxes
@@ -56,9 +87,13 @@ body:
     attributes:
       label: Checklist
       options:
-        - label: I checked the README and existing issues for duplicates.
+        - label: "I checked the README and existing issues, and this resource is distinct from existing entries."
           required: true
-        - label: The project is free and open, and its Codex support works as described.
+        - label: "All links are working and publicly accessible."
           required: true
-        - label: I have read contributing.md.
+        - label: "This resource is free and open, and works with Codex CLI as described."
           required: true
+        - label: "I have read contributing.md."
+          required: true
+        - label: "Do not check the following box - leave it unchecked. By checking this box, I admit that I am not reading any of these statements."
+          required: false
