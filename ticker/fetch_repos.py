@@ -22,12 +22,29 @@ TICKER_CSV = DATA_DIR / "repo-ticker.csv"
 PREVIOUS_CSV = DATA_DIR / "repo-ticker-previous.csv"
 
 # Core query searching for Codex CLI repositories and tooling
-DEFAULT_QUERY = '"codex cli" OR "openai codex" in:name,description,readme archived:false'
+# README is excluded: "mentions Codex" in a README matches generic lists and frameworks.
+DEFAULT_QUERY = (
+    '"codex cli" OR "openai codex" OR codex-cli OR "codex plugin" '
+    "in:name,description,topics archived:false"
+)
+
+def is_relevant(item: dict[str, Any]) -> bool:
+    """Keep repos about Codex itself, not ones that merely mention it."""
+    name = (item.get("full_name") or "").lower()
+    description = (item.get("description") or "").lower()
+    topics = [t.lower() for t in item.get("topics", [])]
+    return (
+        "codex" in name
+        or any("codex" in t for t in topics)
+        or "codex cli" in description
+        or "codex-cli" in description
+    )
 
 # Blocklist for unrelated or spam repositories
 BLOCKED_REPOS: set[str] = {
     "source-code",
     "codex-malware",
+    "salesforce/codegen",
 }
 
 
@@ -77,6 +94,9 @@ def query_github_search(
     for item in data.get("items", []):
         full_name = item.get("full_name", "")
         if item.get("fork") or any(b in full_name.lower() for b in BLOCKED_REPOS):
+            continue
+
+        if not is_relevant(item):
             continue
 
         results.append(

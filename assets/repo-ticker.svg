@@ -36,18 +36,18 @@
   <path d="M106 71 H626" stroke="#30363d" stroke-dasharray="5 7" opacity="0.5"/>
   <g clip-path="url(#viewportClip)">
     <g class="static-card" transform="translate(114, 0)">
-    <a href="https://github.com/openai/codex" target="_blank">
+    <a href="https://github.com/slopus/happy" target="_blank">
       <g transform="translate(0, 12)" class="project">
-        <title>openai/codex — 130129 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 130.1k</text>
+        <title>slopus/happy — 24232 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">happy</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">slopus · ★ 24.2k</text>
       </g>
     </a>
-    <a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    <a href="https://github.com/Graphify-Labs/graphify" target="_blank">
       <g transform="translate(0, 78)" class="project">
-        <title>Yeachan-Heo/oh-my-claudecode — 40101 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">oh-my-claudecode</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Yeachan-Heo · ★ 40.1k</text>
+        <title>Graphify-Labs/graphify — 129529 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">graphify</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Graphify-Labs · ★ 129.5k</text>
       </g>
     </a>
     </g>
@@ -60,102 +60,102 @@
         dur="50s"
         repeatCount="indefinite"
       />
-    <a href="https://github.com/openai/codex" target="_blank">
+    <a href="https://github.com/slopus/happy" target="_blank">
       <g transform="translate(0, 12)" class="project">
-        <title>openai/codex — 130129 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 130.1k</text>
+        <title>slopus/happy — 24232 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">happy</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">slopus · ★ 24.2k</text>
       </g>
     </a>
-    <a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    <a href="https://github.com/Graphify-Labs/graphify" target="_blank">
       <g transform="translate(28, 78)" class="project">
-        <title>Yeachan-Heo/oh-my-claudecode — 40101 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">oh-my-claudecode</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Yeachan-Heo · ★ 40.1k</text>
+        <title>Graphify-Labs/graphify — 129529 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">graphify</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Graphify-Labs · ★ 129.5k</text>
       </g>
     </a>
-    <a href="https://github.com/zeroclaw-labs/zeroclaw" target="_blank">
+    <a href="https://github.com/OrchestratorInc/agent-orchestrator" target="_blank">
       <g transform="translate(304, 12)" class="project">
-        <title>zeroclaw-labs/zeroclaw — 33010 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">zeroclaw</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">zeroclaw-labs · ★ 33.0k</text>
-      </g>
-    </a>
-    <a href="https://github.com/vectorize-io/hindsight" target="_blank">
-      <g transform="translate(332, 78)" class="project">
-        <title>vectorize-io/hindsight — 51864 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">hindsight</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">vectorize-io · ★ 51.9k</text>
-      </g>
-    </a>
-    <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank">
-      <g transform="translate(608, 12)" class="project">
-        <title>HKUDS/Vibe-Trading — 36002 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Vibe-Trading</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">HKUDS · ★ 36.0k</text>
-      </g>
-    </a>
-    <a href="https://github.com/addyosmani/agent-skills" target="_blank">
-      <g transform="translate(636, 78)" class="project">
-        <title>addyosmani/agent-skills — 108791 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">agent-skills</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">addyosmani · ★ 108.8k</text>
+        <title>OrchestratorInc/agent-orchestrator — 13403 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">agent-orchestrator</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">OrchestratorInc · ★ 13.4k</text>
       </g>
     </a>
     <a href="https://github.com/openai/codex-plugin-cc" target="_blank">
-      <g transform="translate(912, 12)" class="project">
-        <title>openai/codex-plugin-cc — 34409 stars</title>
+      <g transform="translate(332, 78)" class="project">
+        <title>openai/codex-plugin-cc — 34408 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-plugin-cc</text>
         <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 34.4k</text>
       </g>
     </a>
-    <a href="https://github.com/sgl-project/sglang" target="_blank">
+    <a href="https://github.com/breferrari/obsidian-mind" target="_blank">
+      <g transform="translate(608, 12)" class="project">
+        <title>breferrari/obsidian-mind — 5392 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">obsidian-mind</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">breferrari · ★ 5.4k</text>
+      </g>
+    </a>
+    <a href="https://github.com/Oldcircle/geo-sleuth" target="_blank">
+      <g transform="translate(636, 78)" class="project">
+        <title>Oldcircle/geo-sleuth — 3520 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">geo-sleuth</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Oldcircle · ★ 3.5k</text>
+      </g>
+    </a>
+    <a href="https://github.com/kaankiziltug/logo-design-skill" target="_blank">
+      <g transform="translate(912, 12)" class="project">
+        <title>kaankiziltug/logo-design-skill — 3809 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">logo-design-skill</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">kaankiziltug · ★ 3.8k</text>
+      </g>
+    </a>
+    <a href="https://github.com/sickn33/agentic-awesome-skills" target="_blank">
       <g transform="translate(940, 78)" class="project">
-        <title>sgl-project/sglang — 37479 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">sglang</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">sgl-project · ★ 37.5k</text>
+        <title>sickn33/agentic-awesome-skills — 48005 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">agentic-awesome-ski…</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">sickn33 · ★ 48.0k</text>
       </g>
     </a>
-    <a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    <a href="https://github.com/Nanako0129/sepia" target="_blank">
       <g transform="translate(1216, 12)" class="project">
-        <title>mvanhorn/last30days-skill — 64834 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">last30days-skill</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">mvanhorn · ★ 64.8k</text>
+        <title>Nanako0129/sepia — 3272 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">sepia</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Nanako0129 · ★ 3.3k</text>
       </g>
     </a>
-    <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank">
+    <a href="https://github.com/ljagiello/ctf-skills" target="_blank">
       <g transform="translate(1244, 78)" class="project">
-        <title>nextlevelbuilder/ui-ux-pro-max-skill — 137799 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">ui-ux-pro-max-skill</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">nextlevelbuilder · ★ 137.8k</text>
+        <title>ljagiello/ctf-skills — 3483 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">ctf-skills</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">ljagiello · ★ 3.5k</text>
       </g>
     </a>
-    <a href="https://github.com/openai/codex" target="_blank">
+    <a href="https://github.com/slopus/happy" target="_blank">
       <g transform="translate(1520, 12)" class="project">
-        <title>openai/codex — 130129 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 130.1k</text>
+        <title>slopus/happy — 24232 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">happy</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">slopus · ★ 24.2k</text>
       </g>
     </a>
-    <a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    <a href="https://github.com/Graphify-Labs/graphify" target="_blank">
       <g transform="translate(1548, 78)" class="project">
-        <title>Yeachan-Heo/oh-my-claudecode — 40101 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">oh-my-claudecode</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Yeachan-Heo · ★ 40.1k</text>
+        <title>Graphify-Labs/graphify — 129529 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">graphify</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Graphify-Labs · ★ 129.5k</text>
       </g>
     </a>
-    <a href="https://github.com/zeroclaw-labs/zeroclaw" target="_blank">
+    <a href="https://github.com/OrchestratorInc/agent-orchestrator" target="_blank">
       <g transform="translate(1824, 12)" class="project">
-        <title>zeroclaw-labs/zeroclaw — 33010 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">zeroclaw</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">zeroclaw-labs · ★ 33.0k</text>
+        <title>OrchestratorInc/agent-orchestrator — 13403 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">agent-orchestrator</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">OrchestratorInc · ★ 13.4k</text>
       </g>
     </a>
-    <a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    <a href="https://github.com/openai/codex-plugin-cc" target="_blank">
       <g transform="translate(1852, 78)" class="project">
-        <title>vectorize-io/hindsight — 51864 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">hindsight</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">vectorize-io · ★ 51.9k</text>
+        <title>openai/codex-plugin-cc — 34408 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-plugin-cc</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 34.4k</text>
       </g>
     </a>
     </g>
