@@ -36,18 +36,18 @@
   <path d="M106 71 H626" stroke="#30363d" stroke-dasharray="5 7" opacity="0.5"/>
   <g clip-path="url(#viewportClip)">
     <g class="static-card" transform="translate(114, 0)">
-    <a href="https://github.com/chaterm/Chaterm" target="_blank">
+    <a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
       <g transform="translate(0, 12)" class="project">
-        <title>chaterm/Chaterm — 3098 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Chaterm</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">chaterm · ★ 3.1k</text>
+        <title>VoltAgent/awesome-agent-skills — 36090 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-agent-skills</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">VoltAgent · ★ 36.1k</text>
       </g>
     </a>
-    <a href="https://github.com/Oldcircle/geo-sleuth" target="_blank">
+    <a href="https://github.com/liaohch3/claude-tap" target="_blank">
       <g transform="translate(0, 78)" class="project">
-        <title>Oldcircle/geo-sleuth — 3630 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">geo-sleuth</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Oldcircle · ★ 3.6k</text>
+        <title>liaohch3/claude-tap — 3300 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-tap</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">liaohch3 · ★ 3.3k</text>
       </g>
     </a>
     </g>
@@ -60,102 +60,102 @@
         dur="50s"
         repeatCount="indefinite"
       />
-    <a href="https://github.com/chaterm/Chaterm" target="_blank">
+    <a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
       <g transform="translate(0, 12)" class="project">
-        <title>chaterm/Chaterm — 3098 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Chaterm</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">chaterm · ★ 3.1k</text>
+        <title>VoltAgent/awesome-agent-skills — 36090 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-agent-skills</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">VoltAgent · ★ 36.1k</text>
       </g>
     </a>
-    <a href="https://github.com/Oldcircle/geo-sleuth" target="_blank">
+    <a href="https://github.com/liaohch3/claude-tap" target="_blank">
       <g transform="translate(28, 78)" class="project">
-        <title>Oldcircle/geo-sleuth — 3630 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">geo-sleuth</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Oldcircle · ★ 3.6k</text>
+        <title>liaohch3/claude-tap — 3300 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-tap</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">liaohch3 · ★ 3.3k</text>
       </g>
     </a>
-    <a href="https://github.com/Galaxy-Dawn/claude-scholar" target="_blank">
+    <a href="https://github.com/Graphify-Labs/graphify" target="_blank">
       <g transform="translate(304, 12)" class="project">
-        <title>Galaxy-Dawn/claude-scholar — 5852 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-scholar</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Galaxy-Dawn · ★ 5.9k</text>
+        <title>Graphify-Labs/graphify — 130486 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">graphify</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Graphify-Labs · ★ 130.5k</text>
       </g>
     </a>
-    <a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+    <a href="https://github.com/htdt/godogen" target="_blank">
       <g transform="translate(332, 78)" class="project">
-        <title>Egonex-AI/Understand-Anything — 87234 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Understand-Anything</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Egonex-AI · ★ 87.2k</text>
-      </g>
-    </a>
-    <a href="https://github.com/graykode/abtop" target="_blank">
-      <g transform="translate(608, 12)" class="project">
-        <title>graykode/abtop — 3755 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">abtop</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">graykode · ★ 3.8k</text>
-      </g>
-    </a>
-    <a href="https://github.com/Dailin521/codex-provider-sync" target="_blank">
-      <g transform="translate(636, 78)" class="project">
-        <title>Dailin521/codex-provider-sync — 3604 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex-provider-sync</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Dailin521 · ★ 3.6k</text>
+        <title>htdt/godogen — 7175 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">godogen</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">htdt · ★ 7.2k</text>
       </g>
     </a>
     <a href="https://github.com/mvschwarz/openrig" target="_blank">
-      <g transform="translate(912, 12)" class="project">
-        <title>mvschwarz/openrig — 7987 stars</title>
+      <g transform="translate(608, 12)" class="project">
+        <title>mvschwarz/openrig — 8008 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">openrig</text>
         <text x="0" y="47" fill="#8b949e" font-size="14">mvschwarz · ★ 8.0k</text>
       </g>
     </a>
     <a href="https://github.com/batrachianai/toad" target="_blank">
-      <g transform="translate(940, 78)" class="project">
+      <g transform="translate(636, 78)" class="project">
         <title>batrachianai/toad — 3484 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">toad</text>
         <text x="0" y="47" fill="#8b949e" font-size="14">batrachianai · ★ 3.5k</text>
       </g>
     </a>
-    <a href="https://github.com/0xNyk/council-of-high-intelligence" target="_blank">
+    <a href="https://github.com/jlcodes99/cockpit-tools" target="_blank">
+      <g transform="translate(912, 12)" class="project">
+        <title>jlcodes99/cockpit-tools — 19163 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">cockpit-tools</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">jlcodes99 · ★ 19.2k</text>
+      </g>
+    </a>
+    <a href="https://github.com/anymorph-ai/Claudable" target="_blank">
+      <g transform="translate(940, 78)" class="project">
+        <title>anymorph-ai/Claudable — 4054 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Claudable</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">anymorph-ai · ★ 4.1k</text>
+      </g>
+    </a>
+    <a href="https://github.com/openai/codex" target="_blank">
       <g transform="translate(1216, 12)" class="project">
-        <title>0xNyk/council-of-high-intelligence — 4683 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">council-of-high-int…</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">0xNyk · ★ 4.7k</text>
-      </g>
-    </a>
-    <a href="https://github.com/genspark-ai/genoffice" target="_blank">
-      <g transform="translate(1244, 78)" class="project">
-        <title>genspark-ai/genoffice — 10176 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">genoffice</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">genspark-ai · ★ 10.2k</text>
-      </g>
-    </a>
-    <a href="https://github.com/chaterm/Chaterm" target="_blank">
-      <g transform="translate(1520, 12)" class="project">
-        <title>chaterm/Chaterm — 3098 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Chaterm</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">chaterm · ★ 3.1k</text>
+        <title>openai/codex — 130199 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">codex</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">openai · ★ 130.2k</text>
       </g>
     </a>
     <a href="https://github.com/Oldcircle/geo-sleuth" target="_blank">
-      <g transform="translate(1548, 78)" class="project">
-        <title>Oldcircle/geo-sleuth — 3630 stars</title>
+      <g transform="translate(1244, 78)" class="project">
+        <title>Oldcircle/geo-sleuth — 3656 stars</title>
         <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">geo-sleuth</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Oldcircle · ★ 3.6k</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Oldcircle · ★ 3.7k</text>
       </g>
     </a>
-    <a href="https://github.com/Galaxy-Dawn/claude-scholar" target="_blank">
+    <a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
+      <g transform="translate(1520, 12)" class="project">
+        <title>VoltAgent/awesome-agent-skills — 36090 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">awesome-agent-skills</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">VoltAgent · ★ 36.1k</text>
+      </g>
+    </a>
+    <a href="https://github.com/liaohch3/claude-tap" target="_blank">
+      <g transform="translate(1548, 78)" class="project">
+        <title>liaohch3/claude-tap — 3300 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-tap</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">liaohch3 · ★ 3.3k</text>
+      </g>
+    </a>
+    <a href="https://github.com/Graphify-Labs/graphify" target="_blank">
       <g transform="translate(1824, 12)" class="project">
-        <title>Galaxy-Dawn/claude-scholar — 5852 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">claude-scholar</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Galaxy-Dawn · ★ 5.9k</text>
+        <title>Graphify-Labs/graphify — 130486 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">graphify</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">Graphify-Labs · ★ 130.5k</text>
       </g>
     </a>
-    <a href="https://github.com/Egonex-AI/Understand-Anything" target="_blank">
+    <a href="https://github.com/htdt/godogen" target="_blank">
       <g transform="translate(1852, 78)" class="project">
-        <title>Egonex-AI/Understand-Anything — 87234 stars</title>
-        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">Understand-Anything</text>
-        <text x="0" y="47" fill="#8b949e" font-size="14">Egonex-AI · ★ 87.2k</text>
+        <title>htdt/godogen — 7175 stars</title>
+        <text x="0" y="26" fill="#e6edf3" font-size="25" font-weight="600" letter-spacing="-0.5">godogen</text>
+        <text x="0" y="47" fill="#8b949e" font-size="14">htdt · ★ 7.2k</text>
       </g>
     </a>
     </g>
