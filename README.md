@@ -215,6 +215,7 @@ Available models depend on your account and configuration. This overview was che
 
 - [Codex Skill](https://github.com/skills-directory/skill-codex) by [klaudworks](https://github.com/klaudworks) - Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.
 - [great_cto](https://github.com/avelikiy/great_cto) - Ships nine skills and an MCP server to Codex CLI, and runs Codex as a second-opinion reviewer on the same diff from inside Claude Code.
+- [ccx](https://github.com/aaronwong1999/ccx) - Pairs a Claude Code session with a Codex thread and syncs context both ways (messages, condensed tool calls, plan, git status) through Codex's app-server API, so you can switch agents mid-task without re-explaining. Ships `$to-claude` / `$from-claude` skills for Codex and a macOS menu bar app.
 
 ### Terminal
 
